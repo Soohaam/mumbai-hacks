@@ -7,7 +7,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 const navigation = [
   { name: "Home", href: "/" },
   { name: "Safe Maps", href: "/neutrality" },
-  { name: "Solutions", href: "/emission" },
+ 
   { name: "About Us", href: "/aboutus" }
 ];
 
